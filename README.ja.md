@@ -29,6 +29,12 @@
 
 2D/3D 機械設計、パラメトリックモデリング、スクリプト向けのデスクトップ／Web CAD。
 
+### CADProps
+STEP/STP ファイルを開き、形状を測定し、モデルのプロパティを確認できるブラウザベースの CAD ビューア／検査ツール。訪問者は表示と測定を利用できます。変換、保存、共有の作成には通常ログインが必要です。アップロードしたファイルはサーバー上で処理されます。この項目は CADProps プロジェクトが管理しており、独立したレビューではありません。
+
+- https://www.cadprops.com/tools/step-viewer/
+- https://www.cadprops.com/guides/measure-step-file/ — 測定チェックリスト
+
 ### FreeCAD
 パラメトリック 3D CAD/CAE — Part Design、TechDraw、Assembly、FEM（CalculiX）、CAM（旧 Path）、豊富なワークベンチ群。OCCT 経由で STEP/IGES に強い。バージョン 1.1（2026 年 3 月）で透過プレビュー、フィレット／面取りの対話型ドラッガー、新しい CAM ツールライブラリを追加。
 

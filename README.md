@@ -31,6 +31,12 @@ Useful CAD / CAE resources — mechanical design, simulation, EDA, formats, and 
 
 Desktop and web CAD for 2D/3D mechanical design, parametric modeling, and scripting.
 
+### CADProps
+Browser-based CAD viewer and inspection tool for opening STEP/STP files, measuring geometry, and checking model properties. Visitor viewing and measurement are available; conversion, saving, and share creation generally require login. Uploaded files are processed on the server. This entry is maintained by the CADProps project and is not an independent review.
+
+- https://www.cadprops.com/tools/step-viewer/
+- https://www.cadprops.com/guides/measure-step-file/ — measurement checklist
+
 ### FreeCAD
 Parametric 3D CAD/CAE — Part Design, TechDraw, Assembly, FEM (CalculiX), CAM (formerly Path), and a large workbench ecosystem. Strong STEP/IGES support via OCCT. Version 1.1 (Mar 2026) added transparent previews, interactive fillet/chamfer draggers, and a new CAM tool library.
 
